@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <tranport make="Stadler Rail" model="Stadler Tango Kraków Lajkonik">
+        <type>tram</type>
+        <public type="bool">True</public>
+        <capacity>60</capacity>
+    </tranport>
+    <tranport make="BMW" model="M5">
+        <type>private car</type>
+        <public type="bool">False</public>
+        <capacity>5</capacity>
+    </tranport>
+    <tranport make="BMW" model="M5">
+        <type>private car</type>
+        <public type="bool">False</public>
+        <capacity>5</capacity>
+    </tranport>
+</transports>
